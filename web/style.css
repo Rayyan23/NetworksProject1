@@ -7,11 +7,9 @@ font-weight: bold;
 font-size: 20px;
 }
 body {
-position: fixed;
-top: 50%;
-left: 50%
+
 background-image: url("https://img.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg?w=2000");
-  background-repeat: repeat-y;
+  background-repeat: repeat;
 }
 a:hover{
 color:green;
@@ -26,7 +24,8 @@ img {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  width: 150px;
+  width: 300px;
+  height: 300px;
 }
 
 img:hover {
